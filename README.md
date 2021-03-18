@@ -17,3 +17,10 @@ https://github.com/fazzyA/htmlrepo
 2. Change its color in blue.
 3.  Add another row showing some relevant text, images, youtube video etc
 4. Make Contact and about page
+
+
+For final pre.
+
+Make folder E:/Your-full-Name-navttc e.g E:/Areeba-Qamar-Navttc
+create empty react app beforehand
+Do questions in this folder
