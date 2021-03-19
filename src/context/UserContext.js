@@ -1,7 +1,7 @@
 import React, { createContext, useState } from 'react'
 export const UserContext = createContext();
 
-const UserContextProvider = (props) => {
+const Myfunction = (props) => {
     const [user, setUser] = useState([
         { 
             name : 'Jawaria',
@@ -29,4 +29,4 @@ const UserContextProvider = (props) => {
         )
 }
 
-export default UserContextProvider
+export default Myfunction

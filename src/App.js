@@ -1,13 +1,13 @@
 import logo from './logo.svg';
 import './App.css';
-import UserContextProvider, { UserContext } from './context/UserContext';
-import User from './componenets/User';
+import Myfunction, { UserContext } from './context/UserContext';
+import User from './components/User';
 function App() {
   return (
     <div className="App">
-      <UserContextProvider>
+      <Myfunction>
         <User/>
-      </UserContextProvider>
+      </Myfunction>
     </div>
   );
 }
